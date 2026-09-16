@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Brand sheet, not gallery content
+Images/Sample/
+
+# Dev-only tooling. The site serves the committed data/manifest.json and thumbs, so a clone
+# does not need these - they stay on the machine that publishes.
+Build.command
+Tools/
+WebsitePlan.txt

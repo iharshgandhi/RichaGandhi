@@ -1,0 +1,97 @@
+{
+  "generated": "2026-09-16T05:16:37Z",
+  "thumbMax": 600,
+  "thumbFormat": "png",
+  "categories": [
+    {
+      "slug": "arabic",
+      "name": "Arabic Designs",
+      "cover": 0,
+      "images": [
+        {
+          "thumb": "Images/Arabic/thumbs/index_1.png",
+          "w": 449,
+          "h": 600,
+          "full": "Images/Arabic/index_1.jpeg",
+          "fw": 1199,
+          "fh": 1600
+        }
+      ]
+    },
+    {
+      "slug": "bridal",
+      "name": "Bridal Mehendi",
+      "cover": 0,
+      "images": [
+        {
+          "thumb": "Images/Bridal/thumbs/index_1.png",
+          "w": 449,
+          "h": 600,
+          "full": "Images/Bridal/index_1.jpeg",
+          "fw": 1199,
+          "fh": 1600
+        }
+      ]
+    },
+    {
+      "slug": "ganeshchaturthi",
+      "name": "Ganesh Chaturthi",
+      "cover": 0,
+      "images": [
+        {
+          "thumb": "Images/GaneshChaturthi/thumbs/index_1.png",
+          "w": 449,
+          "h": 600,
+          "full": "Images/GaneshChaturthi/index_1.jpeg",
+          "fw": 1199,
+          "fh": 1600
+        }
+      ]
+    },
+    {
+      "slug": "intricatefingers",
+      "name": "Intricate Fingers",
+      "cover": 0,
+      "images": [
+        {
+          "thumb": "Images/IntricateFingers/thumbs/index_1.png",
+          "w": 449,
+          "h": 600,
+          "full": "Images/IntricateFingers/index_1.jpeg",
+          "fw": 1199,
+          "fh": 1600
+        }
+      ]
+    },
+    {
+      "slug": "karvachauth",
+      "name": "KarvaChauth Special",
+      "cover": 0,
+      "images": [
+        {
+          "thumb": "Images/KarvaChauth/thumbs/index_1.png",
+          "w": 449,
+          "h": 600,
+          "full": "Images/KarvaChauth/index_1.jpeg",
+          "fw": 1199,
+          "fh": 1600
+        }
+      ]
+    },
+    {
+      "slug": "kids",
+      "name": "Kids' Mehendi",
+      "cover": 0,
+      "images": [
+        {
+          "thumb": "Images/Kids/thumbs/index_1.png",
+          "w": 449,
+          "h": 600,
+          "full": "Images/Kids/index_1.jpeg",
+          "fw": 1199,
+          "fh": 1600
+        }
+      ]
+    }
+  ]
+}
